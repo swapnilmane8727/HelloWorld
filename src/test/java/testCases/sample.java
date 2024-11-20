@@ -6,7 +6,7 @@ public class sample extends BaseClass {
 
 	public void sample()
 	{
-		
+		System.out.println("hello");
 	}
 	
 	
